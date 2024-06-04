@@ -1,0 +1,1 @@
+:root{--SoftMagenta: hsl(300, 69%, 71%) }button{color:var(--SoftMagenta)!important}li{list-style:none;border:1px solid #fff;border-radius:50%;width:50px;height:50px;align-items:center;display:flex;justify-content:center}ul{justify-content:end;padding:0}
